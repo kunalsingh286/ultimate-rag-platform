@@ -34,3 +34,4 @@ and can be safely deployed in production environments.
 
 ## Project Status
 🚧 Phase 0 — Repository initialization and architecture planning
+# ultimate-rag-platform
