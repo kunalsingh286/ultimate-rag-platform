@@ -92,6 +92,7 @@ packaging==25.0
 pandas==2.3.3
 pillow==12.1.0
 portalocker==3.2.0
+prometheus_client==0.24.1
 propcache==0.4.1
 protobuf==6.33.4
 psutil==7.2.1
